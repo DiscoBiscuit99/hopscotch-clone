@@ -13,10 +13,10 @@ endif
 set t_Co=256
 let g:colors_name="hopscotch"
 
-hi Normal ctermbg=#322930
+hi Normal guibg=#322930
 
-hi Comment ctermfg=#676875 cterm="bold"
+hi Comment guifg=#676875 gui="bold"
 
-hi Operator ctermfg=#ada9ad
+hi Operator guifg=#ada9ad
 
 
